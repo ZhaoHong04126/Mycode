@@ -1,63 +1,63 @@
-# Hi, I'm ZhaoHong04126 👋
+# 嗨，我是 ZhaoHong04126 👋
 
-> Building useful things, learning continuously, and turning ideas into working software.
+> 打造實用的作品、持續學習，並將想法轉化為可運作的軟體。
 
-## 🚀 About Me
+## 🚀 關於我
 
-- 🔭 Currently working on **[your current project or focus]**
-- 🌱 Currently learning **[technologies or topics]**
-- 💡 Interested in **software development, automation, open source, and problem-solving**
-- 🎯 Goal: **[your professional or personal goal]**
-- ⚡ Fun fact: **[something memorable about you]**
+- 🔭 目前正在進行 **[你目前的專案或專注方向]**
+- 🌱 目前正在學習 **[技術或主題]**
+- 💡 對 **軟體開發、自動化、開源以及解決問題** 感興趣
+- 🎯 目標：**[你的職涯或個人目標]**
+- ⚡ 有趣的事實：**[一些令人印象深刻的個人特色]**
 
-## 🛠️ Skills & Technologies
+## 🛠️ 技能與技術
 
-### Languages
+### 程式語言
 
-![Language 1](https://img.shields.io/badge/Language%201-000000?style=for-the-badge)
-![Language 2](https://img.shields.io/badge/Language%202-000000?style=for-the-badge)
-![Language 3](https://img.shields.io/badge/Language%203-000000?style=for-the-badge)
+![語言 1](https://img.shields.io/badge/Language%201-000000?style=for-the-badge)
+![語言 2](https://img.shields.io/badge/Language%202-000000?style=for-the-badge)
+![語言 3](https://img.shields.io/badge/Language%203-000000?style=for-the-badge)
 
-### Tools & Platforms
+### 工具與平台
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Featured Projects
+## 🌟 精選專案
 
-### [Project Name](https://github.com/ZhaoHong04126/your-repository)
+### [專案名稱](https://github.com/ZhaoHong04126/your-repository)
 
-A short description of what the project does, the problem it solves, and why it matters.
+簡要說明專案的功能、解決的問題，以及它的重要性。
 
-**Highlights:** `Technology` · `Technology` · `Technology`
+**特色：** `技術` · `技術` · `技術`
 
-### [Project Name](https://github.com/ZhaoHong04126/your-repository)
+### [專案名稱](https://github.com/ZhaoHong04126/your-repository)
 
-A short description of another project, experiment, or contribution you are proud of.
+簡要說明另一個你引以為傲的專案、實驗或貢獻。
 
-**Highlights:** `Technology` · `Technology` · `Technology`
+**特色：** `技術` · `技術` · `技術`
 
-## 📊 GitHub Activity
+## 📊 GitHub 活動
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhaoHong04126&show_icons=true&hide_border=true&theme=transparent)
+![GitHub 統計](https://github-readme-stats.vercel.app/api?username=ZhaoHong04126&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHong04126&layout=compact&hide_border=true&theme=transparent)
+![熱門語言](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoHong04126&layout=compact&hide_border=true&theme=transparent)
 
-## 🧭 What I'm Working Toward
+## 🧭 我正在努力的方向
 
-I enjoy creating projects that are practical, maintainable, and easy to understand.  
-I'm always interested in opportunities to learn, collaborate, and contribute to meaningful work.
+我喜歡建立實用、易於維護且容易理解的專案。  
+我一直期待學習、合作，並為有意義的工作貢獻心力。
 
-## 🤝 Let's Connect
+## 🤝 歡迎與我聯絡
 
-- 💼 LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/)
-- 🌐 Website: [Your website](https://example.com)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐙 GitHub: [@ZhaoHong04126](https://github.com/ZhaoHong04126)
+- 💼 LinkedIn：[你的 LinkedIn 個人檔案](https://www.linkedin.com/)
+- 🌐 個人網站：[你的網站](https://example.com)
+- 📧 電子郵件：[your.email@example.com](mailto:your.email@example.com)
+- 🐙 GitHub：[@ZhaoHong04126](https://github.com/ZhaoHong04126)
 
 ---
 
-### Thanks for stopping by!
+### 感謝你的造訪！
 
-If you find something useful here, feel free to ⭐ a repository or start a conversation.
+如果你在這裡找到有用的內容，歡迎為儲存庫加上 ⭐，或開始與我交流。
