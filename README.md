@@ -54,7 +54,7 @@
 
 - 💼 LinkedIn：[你的 LinkedIn 個人檔案](https://www.linkedin.com/)
 - 🌐 個人網站：[你的網站](https://example.com)
-- 📧 電子郵件：[your.email@example.com](mailto:your.email@example.com)
+- 📧 電子郵件：[huaug9672@gmail.com](mailto:huaug9672@gmail.com)
 - 🐙 GitHub：[@ZhaoHong04126](https://github.com/ZhaoHong04126)
 
 ---
